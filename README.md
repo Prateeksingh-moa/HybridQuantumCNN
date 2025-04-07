@@ -25,7 +25,7 @@ A cutting-edge experiment in combining **Quantum Computing** with **Deep Learnin
 > A fusion of classical deep learning and quantum computing.
 
 - **Classical CNN Layers**: Convolutions and pooling to extract hierarchical visual features.
-- **Quantum Layer**: A variational quantum circuit (VQC) with entanglement and trainable parameters, implemented via Pennylane and inserted as a custom Keras layer.
+- **Quantum Layer**: A variational quantum circuit (VQC) with entanglement and trainable parameters, implemented via Pennylane and Pytorch.
 - **Fully Connected Layers**: Final dense layers for classification across 7 skin lesion categories.
 
 ---
